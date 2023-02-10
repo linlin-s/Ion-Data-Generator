@@ -57,7 +57,6 @@ public class DataGeneratorTest {
     private final static String INPUT_ION_STRING_FILE_PATH = "./tst/com/amazon/ion/datagenerator/testData/testString.isl";
     private final static String INPUT_ION_INT_FILE_PATH = "./tst/com/amazon/ion/datagenerator/testData/testInt.isl";
     private final static String INPUT_SCHEMA_WITH_ANY_OF = "./tst/com/amazon/ion/datagenerator/testData/testAnyOf.isl";
-    private final static String INPUT_SCHEMA_WITH_ONE_OF = "./tst/com/amazon/ion/datagenerator/testData/testOneOf.isl";
     private final static String SCORE_DIFFERENCE = "scoreDifference";
     private final static String COMPARISON_REPORT_WITHOUT_REGRESSION = "./tst/com/amazon/ion/workflow/testComparisonReportWithoutRegression.ion";
     private final static String COMPARISON_REPORT = "./tst/com/amazon/ion/workflow/testComparisonReport.ion";
